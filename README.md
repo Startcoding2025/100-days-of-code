@@ -1,7 +1,7 @@
 # 100-days-of-code
 Task to send 100 codes
 
-// Write a program to input two numbers and display their sum.
+// 1. Write a program to input two numbers and display their sum.
 
 #include <stdio.h>
 int main()
@@ -18,7 +18,7 @@ int main()
 
 
 
-// Write a program to input two numbers and display their sum, difference, product, and quotient.
+// 2. Write a program to input two numbers and display their sum, difference, product, and quotient.
 
 #include <stdio.h>
 
@@ -62,7 +62,7 @@ int main()
 
 
 
-// Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
+// 3. Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 
 #include <stdio.h>
 int main()
@@ -80,7 +80,7 @@ int main()
 
 
 
-// Write a program to calculate the area and circumference of a circle given its radius.
+// 4. Write a program to calculate the area and circumference of a circle given its radius.
 
 #include <stdio.h>
 #include <math.h>
@@ -103,7 +103,7 @@ int main()
 
 
 
-// write a program to convert temperature from celsius to Fahrenheit
+// 5. write a program to convert temperature from celsius to Fahrenheit
 
 #include <stdio.h>
 int main()
@@ -122,7 +122,7 @@ int main()
 
 
 
-// write a program to swap two numbers using a third variable.
+// 6. write a program to swap two numbers using a third variable.
 
 #include <stdio.h>
 int main()
@@ -140,7 +140,7 @@ int main()
     return 0;
 }
 
-// 1.rite a program to swap two numbers without using third variable.
+// 7. write a program to swap two numbers without using third variable.
 
 #include <stdio.h>
 int main()
